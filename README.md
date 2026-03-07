@@ -1,16 +1,22 @@
-<p>Привет, я <b>начинающий</b> программист:/</p>
-<mark>Hi, im a <b>begginer</b> programmer:/</mark>
+# Привет! Я начинающий программист 👋
 
-<h1>Мои технологии:</h1>
-<h3>My technologies:</h3>
-python
-  <ul>
-    <li>sqlite3</li>
-    <li>flet</li>
-  </ul>
-dart
-  <ul>
-    <li>flutter</li>
-  </ul>
-html
-css
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Привет">
+
+## 🛠️ Мои технологии
+
+**Python**
+* 📱 Flet
+* ⚡ FastApi
+
+**Dart & Flutter**
+* 🎯 Flutter
+
+**Веб-технологии**
+* 🌐 HTML
+* 🎨 CSS
+
+**Другое**
+* 📑 Sql
+
+---
+⭐️ From [ankurage](https://github.com/ankurage)
