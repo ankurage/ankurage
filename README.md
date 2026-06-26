@@ -4,30 +4,34 @@
 
 ## 🛠️ My Tech Stack
 
+### ⚙️ Rust
+Soon...
+
 ### 🐍 Python
-| Technology | Description |
-|------------|-------------|
-| 📱 Flet | Building cross-platform GUI apps |
-| ⚡ FastAPI | Creating modern & fast web APIs |
-
-### 🎯 Dart & Flutter
-| Technology | Description |
-|------------|-------------|
-| 🎯 Flutter | Building cross-platform GUI apps |
-
-### 🌐 Web Development
-| Technology | Description |
-|------------|-------------|
-| 🌐 HTML | Web page structure |
-| 🎨 CSS | Styling and animations |
+| Technology |
+|------------|
+| 📱 Flet    |
+| ⚡ FastAPI |
 
 ### 🗄️ Databases
-| Technology | Description |
-|------------|-------------|
-| 📑 SQL | Database management |
-| 🗄️ SQLite | Lightweight embedded database |
-| 🐘 PostgreSQL | Advanced relational database |
-| 🔌 psycopg2 | PostgreSQL adapter for Python |
+| Technology |
+|------------|
+| 📑 SQL     |
+| 🗄️ SQLite  |
+| 🐘 PostgreSQL |
+| 🔌 psycopg2 |
+
+### 🎯 Dart & Flutter
+| Technology |
+|------------|
+| 🎯 Flutter |
+
+### 🌐 Web Development
+| Technology |
+|------------|
+| ☕ JavaScript |
+| 🌐 HTML    |
+| 🎨 CSS     |
 
 ---
 
